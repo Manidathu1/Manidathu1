@@ -1,4 +1,4 @@
-[MasterHead](https://datanatives.io/wp-content/uploads/2022/06/GtG_small_banner_2.gif)
+<img src="https://datanatives.io/wp-content/uploads/2022/06/GtG_small_banner_2.gif"/>
 <h1 align="center">Hi 👋, I'm Manidathu</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
